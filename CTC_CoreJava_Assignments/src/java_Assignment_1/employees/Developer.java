@@ -7,8 +7,7 @@ public class Developer extends Employee {
 		super(name,employeeId,salary);
 		this.programlang=programlang;
 	}
-
-	
+//	
 	
 	public String getProgramlang() {
 		return programlang;

@@ -27,3 +27,4 @@ public class Indigo implements Airfare {
         System.out.printf("%.2f%n", calculate());
     }
 }
+//

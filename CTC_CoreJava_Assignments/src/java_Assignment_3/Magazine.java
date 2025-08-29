@@ -21,7 +21,7 @@ public class Magazine extends Item{
 		return "Magazine [issuenumber=" + issuenumber + ", id=" + id + ", title=" + title + "]";
 	}
 	
-	
+	//
 	
 
 }

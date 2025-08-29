@@ -5,7 +5,7 @@ public class Manager extends Employee {
 	public Manager(String name,String employeeId,double salary,String Department) {
 		super(name,employeeId,salary);
 		this.Department=Department;
-		
+	//	
 	}
 
 	public String getDepartment() {
